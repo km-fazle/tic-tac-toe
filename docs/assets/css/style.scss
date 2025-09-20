@@ -1,0 +1,51 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.nav-bar {
+  margin-top: 20px;
+}
+
+.nav-bar .btn {
+  margin: 5px;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  overflow: auto;
+  padding: 10px;
+}
+
+code {
+  font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  font-size: 0.9em;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #159957;
+}
+
+.main-content table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.main-content table th, .main-content table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.main-content table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.main-content table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #159957;
+  color: white;
+}

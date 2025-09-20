@@ -1,0 +1,20 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+title: Tic-Tac-Toe Documentation
+description: Documentation for a C++ multithreaded Tic-Tac-Toe game
+show_downloads: true
+github:
+  repository_url: https://github.com/km-fazle/tic-tac-toe
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Code Structure
+    url: /code/structure.html
+  - title: Game Logic
+    url: /code/game_logic.html
+  - title: Usage Guide
+    url: /code/usage.html
