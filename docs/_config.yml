@@ -5,6 +5,7 @@ plugins:
 title: Tic-Tac-Toe Documentation
 description: Documentation for a C++ multithreaded Tic-Tac-Toe game
 show_downloads: true
+baseurl: /tic-tac-toe
 github:
   repository_url: https://github.com/km-fazle/tic-tac-toe
 
