@@ -3,7 +3,7 @@ layout: default
 title: Code Structure
 ---
 
-# Code Structure
+# CSCI-310 - Group 1: Code Structure
 
 ## Overview
 

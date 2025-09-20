@@ -7,13 +7,13 @@ description: Documentation for a C++ multithreaded Tic-Tac-Toe game
 show_downloads: true
 baseurl: /tic-tac-toe
 github:
-  repository_url: https://github.com/km-fazle/tic-tac-toe
+  repository_url: https://github.com/DarkAardvark/CSCI-310---Group-1
 
 # Navigation
 nav:
   - title: Home
     url: /
-  - title: Code Structure
+  - title: Tic Tac Toe Code Structure
     url: /code/structure.html
   - title: Game Logic
     url: /code/game_logic.html

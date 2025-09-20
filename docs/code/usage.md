@@ -3,7 +3,7 @@ layout: default
 title: Usage Guide
 ---
 
-# Usage Guide
+# CSCI-310 - Group 1: Usage Guide
 
 ## Requirements
 

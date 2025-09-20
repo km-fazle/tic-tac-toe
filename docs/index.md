@@ -3,7 +3,7 @@ layout: default
 title: Tic-Tac-Toe Documentation
 ---
 
-# Tic-Tac-Toe Game
+# CSCI-310 - Group 1: Tic-Tac-Toe Game
 
 ## Overview
 
@@ -13,6 +13,8 @@ This is a simple implementation of the classic Tic-Tac-Toe game in C++. The game
 
 This project was developed by Group 1:
 - Caleb Fitzsimonds
+- Sundus Mahamud
+- K.M Fazle Rabbi
 - Sundus Mahamud
 - K.M Fazle Rabbi
 

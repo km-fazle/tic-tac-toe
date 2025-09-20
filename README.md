@@ -6,6 +6,11 @@ A multithreaded implementation of the classic Tic-Tac-Toe game in C++.
 
 This project demonstrates a simple implementation of Tic-Tac-Toe where two AI players (X and O) make random moves on a 3×3 grid. The game showcases the use of C++ threads and mutex for concurrent programming.
 
+## Repository
+
+The official repository for this project is available at:
+[https://github.com/DarkAardvark/CSCI-310---Group-1](https://github.com/DarkAardvark/CSCI-310---Group-1)
+
 ## Features
 
 - Two AI players playing against each other

@@ -3,7 +3,7 @@ layout: default
 title: Game Logic
 ---
 
-# Game Logic
+# CSCI-310 - Group 1: Game Logic
 
 ## Overview
 
