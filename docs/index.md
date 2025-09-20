@@ -21,6 +21,7 @@ This project was developed by Group 1:
 
 - Two AI players (X and O) playing against each other
 - Concurrent execution using C++ threads
+- Mutex-protected game state to prevent race conditions
 - Random move selection
 - Automatic win detection
 - Clean console display of the game board

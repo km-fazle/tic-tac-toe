@@ -135,6 +135,7 @@ The game uses C++ threads to run the two players concurrently:
 2. A mutex (`g.m`) ensures that only one player can access the game state at a time
 3. Players take turns by checking the `turn` variable
 4. Thread synchronization is handled with `std::unique_lock<std::mutex>`
+5. The mutex-protected design prevents race conditions and ensures game state integrity
 
 ## Memory Management
 

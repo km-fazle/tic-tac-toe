@@ -15,6 +15,7 @@ The official repository for this project is available at:
 
 - Two AI players playing against each other
 - Concurrent execution using C++ threads
+- Mutex-protected game state to prevent race conditions
 - Random move selection
 - Automatic win detection
 - Clean console display of the game board

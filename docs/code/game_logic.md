@@ -48,6 +48,9 @@ void player(Game& g, char mark, int id) {
 Key synchronization elements:
 - Each player thread acquires a lock on the game mutex before checking or modifying the game state
 - The `turn` variable controls which player can make a move
+- The mutex (`g.m`) ensures that only one player can access and modify the game state at any time
+- This mutex-protected design prevents race conditions that could corrupt the game state
+- The `std::unique_lock` automatically releases the mutex when it goes out of scope
 - After a player makes a move, they change the `turn` to the other player's ID
 - The mutex is unlocked to allow the other player to take their turn
 
