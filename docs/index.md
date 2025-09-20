@@ -15,8 +15,7 @@ This project was developed by Group 1:
 - Caleb Fitzsimonds
 - Sundus Mahamud
 - K.M Fazle Rabbi
-- Sundus Mahamud
-- K.M Fazle Rabbi
+
 
 ## Features
 
